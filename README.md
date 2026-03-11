@@ -52,3 +52,14 @@ Produced a clear visualization of transportation networks.
 - Satellite imagery analysis
 - Environmental spatial analysis
 - Spatial clustering models
+
+## Sample Map Outputs
+
+### Population Density Map
+![Population Density Map](population-density-map.png)
+
+### Road Network Visualization
+![Road Network Map](road-network-map.png)
+
+### Terrain / Elevation Map
+![Terrain Map](terrain-map.png)
