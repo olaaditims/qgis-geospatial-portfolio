@@ -1,2 +1,54 @@
-# qgis-geospatial-portfolio
-Geospatial analysis portfolio using QGIS including spatial visualization, mapping, and open geographic datasets.
+# Geospatial Analysis Portfolio (QGIS)
+
+This repository showcases geospatial analysis projects using QGIS and open geographic datasets.
+
+## Skills Demonstrated
+- Spatial data visualization
+- Geographic data interpretation
+- Map layer management
+- Coordinate reference systems
+- Vector and raster data handling
+
+## Tools
+- QGIS
+- GeoJSON
+- OpenStreetMap Data
+- Spatial data visualization
+
+---
+
+## Project 1: Population Density Mapping
+
+Objective:
+Visualize population density using spatial layers.
+
+Process:
+- Imported population dataset
+- Created a choropleth map
+- Styled layers for clear geographic comparison
+
+Outcome:
+Identified high-density regions and spatial distribution patterns.
+
+---
+
+## Project 2: Road Network Mapping
+
+Objective:
+Analyze transportation infrastructure using OpenStreetMap data.
+
+Process:
+- Imported road network shapefiles
+- Categorized road types
+- Styled major and minor roads
+
+Outcome:
+Produced a clear visualization of transportation networks.
+
+---
+
+## Future Work
+
+- Satellite imagery analysis
+- Environmental spatial analysis
+- Spatial clustering models
