@@ -63,3 +63,12 @@ Produced a clear visualization of transportation networks.
 
 ### Terrain / Elevation Map
 ![Terrain Map](terrain-map.png)
+
+## Geospatial Datasets
+
+This repository includes sample geographic datasets used for spatial visualization and mapping.
+
+Datasets included:
+
+- countries.geojson — global country boundaries
+- world-cities.csv — dataset of major cities worldwide
